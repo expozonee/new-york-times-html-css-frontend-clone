@@ -1,4 +1,4 @@
-# new-york-times-html-css-frontend-clone
+# New York Times HTML CSS Frontend Clone Website
 
 ## Project Overview
 
